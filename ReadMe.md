@@ -4,7 +4,7 @@
 </p>
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me:**
-👋 Hola, soy Dany Mitte<br>👀 Me interesa la programacion<br>🌱 Actualmente estoy aprendiendo Nodejs<br>💞️ Estoy buscando colaborar en Proyectos web<br>📫 Contactame al correo -> mittedany547@gmail.com
+👋 Hola, soy Dany Mitte<br>👀 Explorando nuevas tecnologias y desarrollando conocimiento de programacion<br>🌱 Actualmente estoy aprendiendo Nodejs<br>💞️ Estoy buscando colaborar en Proyectos web<br>📫 Contactame al correo -> mittedany547@gmail.com
 
 
 
