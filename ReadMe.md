@@ -4,8 +4,18 @@
 </p>
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me:**
-👋 Hola, soy Dany Mitte<br>👀 Explorando nuevas tecnologias y desarrollando conocimiento de programacion<br>🌱 Actualmente estoy aprendiendo Nodejs<br>💞️ Estoy buscando colaborar en Proyectos web<br>🧑‍💻 Me encanta utilizar el software como solucion a cada problema<br>🤓 Siempre aprendiendo nuevas cosas<br>💣 Puedes visitar [MI SITIO WEB](https://dmitte.github.io/PortFolio/).
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<br><br>
+
+- 👋 Hola, soy Dany Mitte
+- 👀 Explorando nuevas tecnologias y desarrollando conocimiento de programacion
+- 🌱 Actualmente estoy aprendiendo Nodejs
+- 💞️ Estoy buscando colaborar en Proyectos web
+- 🧑‍💻 Me encanta utilizar el software como solucion a cada problema
+- 🤓 Siempre aprendiendo nuevas cosas
+- 💣 Puedes visitar [MI SITIO WEB](https://dmitte.github.io/PortFolio/)
+<br>
 
 
 ## 🌐 Socials:
