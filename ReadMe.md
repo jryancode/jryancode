@@ -1,8 +1,10 @@
 # 💫 About Me:
 👋 Hola, soy Dany Mitte<br>👀 Me interesa la programacion<br>🌱 Actualmente estoy aprendiendo Nodejs<br>💞️ Estoy buscando colaborar en Proyectos web<br>📫 Contactame al correo -> mittedany547@gmail.com
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70A04&random=false&width=435&lines=Fullstack+developer%F0%9F%98%8E;Desarrollo+web%F0%9F%92%BB;Junior+developer%F0%9F%AB%A1)](https://git.io/typing-svg)
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com 
+     font=Fira+Code&pause=1000&color=F70A04&random=false&width=435&lines=Fullstack+developer%F0%9F%98%8E;Desarrollo+web%F0%9F%92%BB;Junior+developer%F0%9F%AB%A1" alt="Typing SVG" /></a>
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100008507583118) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elmitte_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ElMitte_) 
