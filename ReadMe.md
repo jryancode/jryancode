@@ -25,7 +25,7 @@
 	<a href="https://www.linkedin.com/in/dmitte/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=10000850758318&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/elmitte_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/stackoverflow-%23FFFC00.svg?style=plastic&logo=stackoverflow&logoColor=black" alt="Snap Chat"/></a>
+	<a href="https://stackoverflow.com/users/22297388/dany-mitte"><img src="https://img.shields.io/badge/stackoverflow-%23FFFC00.svg?style=plastic&logo=stackoverflow&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
 # 💻 Tech Stack:
