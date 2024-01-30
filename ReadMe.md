@@ -1,12 +1,14 @@
 <h1 align="center">Hola 👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Dany Mitte</a></h1>
 
+<h3 align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70A04&random=false&width=435&lines=Fullstack+developer%F0%9F%98%8E;Desarrollo+web%F0%9F%92%BB;Junior+developer%F0%9F%AB%A1"></a>
+</h3>
+
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me:**
 👋 Hola, soy Dany Mitte<br>👀 Me interesa la programacion<br>🌱 Actualmente estoy aprendiendo Nodejs<br>💞️ Estoy buscando colaborar en Proyectos web<br>📫 Contactame al correo -> mittedany547@gmail.com
 
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70A04&random=false&width=435&lines=Fullstack+developer%F0%9F%98%8E;Desarrollo+web%F0%9F%92%BB;Junior+developer%F0%9F%AB%A1"></a>
-</p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100008507583118) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elmitte_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ElMitte_) 
