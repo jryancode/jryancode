@@ -2,7 +2,7 @@
 👋 Hola, soy Dany Mitte<br>👀 Me interesa la programacion<br>🌱 Actualmente estoy aprendiendo Nodejs<br>💞️ Estoy buscando colaborar en Proyectos web<br>📫 Contactame al correo -> mittedany547@gmail.com
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70A04&random=false&width=435&lines=Fullstack+developer%F0%9F%98%8E;Desarrollo+web%F0%9F%92%BB;Junior+developer%F0%9F%AB%A1)](https://git.io/typing-svg)
 </p>
 
 
