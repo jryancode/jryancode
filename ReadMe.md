@@ -2,7 +2,7 @@
 Dany Mitte</a></h1>
 
 <h3 align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70A04&random=false&width=435&lines=Fullstack+developer%F0%9F%98%8E;Desarrollo+web%F0%9F%92%BB;Junior+developer%F0%9F%AB%A1"></a>
+ <a aling="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70A04&random=false&width=435&lines=Fullstack+developer%F0%9F%98%8E;Desarrollo+web%F0%9F%92%BB;Junior+developer%F0%9F%AB%A1"></a>
 </h3>
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me:**
