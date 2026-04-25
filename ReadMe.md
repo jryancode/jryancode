@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm James Ryan V. Dela Cruz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7210C&center=true&vCenter=true&random=false&width=600&lines=Senior+Software+Engineer;Full-Stack+%7C+AI+Systems+%7C+Scalable+Architecture;React+%7C+Next.js+%7C+Node.js+%7C+Rust+%7C+Python"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7210C&center=true&vCenter=true&random=false&width=800&lines=Senior+Software+Engineer;Full-Stack+%7C+AI+Systems+%7C+Scalable+Architecture;React+%7C+Next.js+%7C+Node.js+%7C+Rust+%7C+Python"></a>
 </p>
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me:**
