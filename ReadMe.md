@@ -58,9 +58,9 @@
 
 ## 🏅 Certifications
 
-- **Microsoft Certified** — Azure AI Engineer Associate (2024)
-- **OpenAI** — Prompt Engineering Certification (2023)
-- **Open JS Foundation** — Node.js Application Developer (2022)
+- **Microsoft Certified** — Microsoft Azure AI Fundamentals (AI-900) (2024)
+- **Docker** — Docker Certified Associate (2023)
+- **Amazon** — Amazon Web Services AWS Certified Developer – Associate (2022)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DMitte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
