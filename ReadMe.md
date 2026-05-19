@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7210C&center=true&vCenter=true&random=false&width=800&lines=Senior+Full+Stack+Engineer;React+%7C+Node.js+%7C+Java+%7C+Python"></a>
 </p>
 
-## 👨‍💻 About Me
+<!-- ## 👨‍💻 About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
@@ -14,7 +14,7 @@
 - 🦀 Building high-performance microservices and data-processing modules in Rust
 - ☁️ Cloud-native architect across AWS, Azure, Docker, and Kubernetes
 - 💼 Check out my portfolio: [james-ryan.vercel.app](https://james-ryan.vercel.app)
-<!-- - 🎯 Currently a Senior Software Engineer at **o9 Solutions, Inc** (USA | Remote) -->
+- 🎯 Currently a Senior Software Engineer at **o9 Solutions, Inc** (USA | Remote)
 
 <br>
 
@@ -22,9 +22,71 @@
 <p align="center">
 	<a href="mailto:james.ryan.pro81@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/jryancode"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<!-- <a href="https://www.linkedin.com/in/james-ryan-delacruz"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+	<a href="https://www.linkedin.com/in/james-ryan-delacruz"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://james-ryan.vercel.app"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p> -->
+
+## 🚀 About Me
+
+<table>
+<tr>
+
+
+### **Senior Full-Stack Engineer**
+
+Senior Full-Stack Engineer with experience building scalable web applications, backend systems, and APIs for production environments.
+
+I turn product requirements into reliable and maintainable solutions, working across frontend and backend to ship features that perform well and scale cleanly over time.
+
+---
+
+</tr>
+<tr>
+<td width="55%" valign="top">
+	
+### 🎯 Problem Solver
+I enjoy solving real-world problems and building solutions that create real impact.
+
+### 💻 Full-Stack Expertise
+Experienced across the entire stack, from intuitive UI/UX to robust backend and database design.
+
+### ☁️ Scalable & Maintainable
+I design and build systems that are scalable, secure, and easy to maintain.
+
+### 🤝 Team Player
+I collaborate effectively with distributed teams and contribute to architecture and technical decisions.
+
+<br/>
+
+</td>
+
+<td width="45%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding"/>
+
+<blockquote>
+Always open to <b>collaborating</b> on meaningful projects and building great products.
+</blockquote>
+
+<p align="center">
+
+<a href="https://wa.me/+63 970 582 6674">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://t.me/@Comet_19">
+  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:james.ryan.pro81@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
+</td>
+</tr>
+</table>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack:</b>
 
