@@ -64,6 +64,8 @@ I collaborate effectively with distributed teams and contribute to architecture 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding"/>
 
+<br/>
+
 <blockquote>
 Always open to <b>collaborating</b> on meaningful projects and building great products.
 </blockquote>
