@@ -8,12 +8,12 @@
 
 <br><br>
 
-- 👋 Hi, I'm James Ryan — Senior Software Engineer based in Zamboanga, Philippines
-- 🚀 Specializing in scalable web, mobile, and AI-driven systems
-- 🤖 Led AI and automation initiatives using Azure OpenAI, delivering a 25% improvement in Digital Customer Experience
+- 👋 Hi, I'm James Ryan — Senior Full Stack Engineer based in Zamboanga, Philippines
+- 🚀 Building scalable web applications, APIs, and practical AI-powered tools
+- 🤖 Led AI and automation initiatives using Azure OpenAI
 - 🦀 Building high-performance microservices and data-processing modules in Rust
 - ☁️ Cloud-native architect across AWS, Azure, Docker, and Kubernetes
-- 🎯 Currently a Senior Software Engineer at **o9 Solutions, Inc** (USA | Remote)
+<!-- - 🎯 Currently a Senior Software Engineer at **o9 Solutions, Inc** (USA | Remote) -->
 - 💼 Check out my portfolio: [james-ryan.vercel.app](https://james-ryan.vercel.app)
 
 <br>
