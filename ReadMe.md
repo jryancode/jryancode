@@ -13,8 +13,8 @@
 - 🤖 Led AI and automation initiatives using Azure OpenAI
 - 🦀 Building high-performance microservices and data-processing modules in Rust
 - ☁️ Cloud-native architect across AWS, Azure, Docker, and Kubernetes
-<!-- - 🎯 Currently a Senior Software Engineer at **o9 Solutions, Inc** (USA | Remote) -->
 - 💼 Check out my portfolio: [james-ryan.vercel.app](https://james-ryan.vercel.app)
+<!-- - 🎯 Currently a Senior Software Engineer at **o9 Solutions, Inc** (USA | Remote) -->
 
 <br>
 
