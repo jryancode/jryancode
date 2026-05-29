@@ -32,9 +32,9 @@
 <tr>
 
 
-### **Senior Full-Stack Engineer**
+### **Senior Software Engineer**
 
-Senior Full-Stack Engineer with experience building scalable web applications, backend systems, and APIs for production environments.
+Senior Software Engineer with experience building AI powered web applications, backend systems, and APIs for production environments.
 
 I turn product requirements into reliable and maintainable solutions, working across frontend and backend to ship features that perform well and scale cleanly over time.
 
