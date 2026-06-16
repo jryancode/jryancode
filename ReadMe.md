@@ -145,11 +145,11 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 
 ## 🏅 Certifications
 
-- **TestDome** — [Deep Learning](https://www.testdome.com/certificates/d56c3fcf11144587ac66aa81148f5c79)
-- **TestDome** — [AWS](https://www.testdome.com/certificates/fd6b0b8a8d68466d84e07b25a3c8601e)
-- **TestDome** — [Machine Learning](https://www.testdome.com/certificates/e2c9bf611852498ebd0f44411484a91c)
-- **HackerRank** — [Problem Solving](https://www.hackerrank.com/certificates/f8e769b7f83e)
-- **HackerRank** — [Python](https://www.hackerrank.com/certificates/d113719083c5)
+- **TestDome** | [Deep Learning](https://www.testdome.com/certificates/d56c3fcf11144587ac66aa81148f5c79)
+- **TestDome** | [AWS](https://www.testdome.com/certificates/fd6b0b8a8d68466d84e07b25a3c8601e)
+- **TestDome** | [Machine Learning](https://www.testdome.com/certificates/e2c9bf611852498ebd0f44411484a91c)
+- **HackerRank** | [Problem Solving](https://www.hackerrank.com/certificates/f8e769b7f83e)
+- **HackerRank** | [Python](https://www.hackerrank.com/certificates/d113719083c5)
 
 ## 📊 GitHub Stats
 
