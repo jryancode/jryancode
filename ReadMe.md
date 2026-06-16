@@ -137,12 +137,6 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## 💼 Experience Highlights
-
-- **Senior AI Engineer @ Collectly** - Lead AI engineering on a patient billing platform; agentic workflows cut manual review on routine tickets by **~45%**, and a cited RAG layer raised internal answer accuracy from the high 70s to **~92%**.
-- **AI Engineer @ Helicap** - Built LLM tools for a lending & credit team; a document assistant cut manual data entry per deal by **~60%**, backed by a pgvector + FastAPI research assistant.
-- **Software Engineer @ Alliance** - Backend services in Python & Node.js; shipped an early GenAI support-reply feature that cut first response time by **~40%**.
-
 ## 🏅 Certifications
 
 - **TestDome** | [Deep Learning](https://www.testdome.com/certificates/d56c3fcf11144587ac66aa81148f5c79)
@@ -150,13 +144,3 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 - **TestDome** | [Machine Learning](https://www.testdome.com/certificates/e2c9bf611852498ebd0f44411484a91c)
 - **HackerRank** | [Problem Solving](https://www.hackerrank.com/certificates/f8e769b7f83e)
 - **HackerRank** | [Python](https://www.hackerrank.com/certificates/d113719083c5)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DMitte&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DMitte&theme=dark&hide_border=false"/>
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMitte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
