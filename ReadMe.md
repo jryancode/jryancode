@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm James Ryan V. Dela Cruz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7210C&center=true&vCenter=true&random=false&width=800&lines=AI+Engineer;LLM+%7C+RAG+%7C+Agentic+Systems;Shipping+GenAI+into+Production"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7210C&center=true&vCenter=true&random=false&width=800&lines=AI+Engineer;LLM+%7C+RAG+%7C+Agentic+Systems;Building+production+LLM+apps;Evaluation+%7C+Guardrails+%7C+Low+latency;Shipping+GenAI+into+Production"></a>
 </p>
 
 <p align="center">
@@ -22,12 +22,12 @@ AI Engineer with around **five years** building and shipping production software
 
 I design **retrieval-augmented generation (RAG)** pipelines, build **AI agents** that handle multi-step tasks, and integrate generative AI into existing products without breaking what already works.
 
-Most of my recent work has been in **fintech and billing**, where accuracy and traceability matter - so I care a lot about **evaluation, guardrails, and keeping cost and latency under control**.
+Most of my recent work has been in **fintech and billing**, where accuracy and traceability matter — so I care a lot about **evaluation, guardrails, and keeping cost and latency under control**.
 
 ### 🎯 What I Do
 - 🤖 Build **agentic workflows** with tool calling and safe rollout patterns
 - 🔎 Design **RAG layers** that give grounded, cited answers
-- 📊 Put **real evaluation** in place - labeled regression sets, automated scoring in CI
+- 📊 Put **real evaluation** in place — labeled regression sets, automated scoring in CI
 - ⚡ Tune **retrieval, caching, and model routing** to cut latency and spend
 - 🚢 Own features from **prototype through deployment** and on-call support
 
@@ -76,13 +76,8 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-6C5CE7?style=for-the-badge)
-![Tool Calling](https://img.shields.io/badge/Tool%20Calling-00B894?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0984E3?style=for-the-badge)
-![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-E17055?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-FDCB6E?style=for-the-badge&logoColor=black)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-A29BFE?style=for-the-badge)
+
+<sub>RAG · AI agents & tool calling · prompt engineering & evaluation · fine-tuning · embeddings · semantic search</sub>
 
 ---
 
@@ -137,10 +132,40 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+## 💼 Experience Highlights
+
+- **Senior AI Engineer @ Collectly** — Lead AI engineering on a patient billing platform; agentic workflows cut manual review on routine tickets by **~45%**, and a cited RAG layer raised internal answer accuracy from the high 70s to **~92%**.
+- **AI Engineer @ Helicap** — Built LLM tools for a lending & credit team; a document assistant cut manual data entry per deal by **~60%**, backed by a pgvector + FastAPI research assistant.
+- **Software Engineer @ Alliance** — Backend services in Python & Node.js; shipped an early GenAI support-reply feature that cut first response time by **~40%**.
+
 ## 🏅 Certifications
 
-- **TestDome** | [Deep Learning](https://www.testdome.com/certificates/d56c3fcf11144587ac66aa81148f5c79)
-- **TestDome** | [AWS](https://www.testdome.com/certificates/fd6b0b8a8d68466d84e07b25a3c8601e)
-- **TestDome** | [Machine Learning](https://www.testdome.com/certificates/e2c9bf611852498ebd0f44411484a91c)
-- **HackerRank** | [Problem Solving](https://www.hackerrank.com/certificates/f8e769b7f83e)
-- **HackerRank** | [Python](https://www.hackerrank.com/certificates/d113719083c5)
+- **TestDome** — [Deep Learning](https://www.testdome.com/certificates/d56c3fcf11144587ac66aa81148f5c79)
+- **TestDome** — [AWS](https://www.testdome.com/certificates/fd6b0b8a8d68466d84e07b25a3c8601e)
+- **TestDome** — [Machine Learning](https://www.testdome.com/certificates/e2c9bf611852498ebd0f44411484a91c)
+- **HackerRank** — [Problem Solving](https://www.hackerrank.com/certificates/f8e769b7f83e)
+- **HackerRank** — [Python](https://www.hackerrank.com/certificates/d113719083c5)
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DMitte&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DMitte/DMitte/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+## 📈 Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DMitte&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
+</p>
+
+## 🧮 Most Used Languages
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMitte&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
