@@ -76,8 +76,13 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white)
-
-<sub>RAG · AI agents & tool calling · prompt engineering & evaluation · fine-tuning · embeddings · semantic search</sub>
+![RAG](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6C5CE7?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-00B894?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0984E3?style=for-the-badge)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-E17055?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-FDCB6E?style=for-the-badge&logoColor=black)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-A29BFE?style=for-the-badge)
 
 ---
 
@@ -149,23 +154,23 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DMitte&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jryancode&theme=ondark&no-frame=true&margin-w=4&column=7"/>
 </p>
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DMitte/DMitte/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/jryancode/jryancode/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ## 📈 Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DMitte&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jryancode&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
 </p>
 
 ## 🧮 Most Used Languages
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMitte&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jryancode&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
