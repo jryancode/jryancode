@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm James Ryan V. Dela Cruz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7210C&center=true&vCenter=true&random=false&width=800&lines=AI+Engineer;LLM+%7C+RAG+%7C+Agentic+Systems;Building+production+LLM+apps;Evaluation+%7C+Guardrails+%7C+Low+latency;Shipping+GenAI+into+Production"></a>
+  <a href="https://github.com/jryancode/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7210C&center=true&vCenter=true&random=false&width=800&lines=AI+Engineer;LLM+%7C+RAG+%7C+Agentic+Systems;Building+production+LLM+apps;Evaluation+%7C+Guardrails+%7C+Low+latency;Shipping+GenAI+into+Production"></a>
 </p>
 
 <p align="center">
@@ -150,12 +150,6 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 - **TestDome** — [Machine Learning](https://www.testdome.com/certificates/e2c9bf611852498ebd0f44411484a91c)
 - **HackerRank** — [Problem Solving](https://www.hackerrank.com/certificates/f8e769b7f83e)
 - **HackerRank** — [Python](https://www.hackerrank.com/certificates/d113719083c5)
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jryancode&theme=ondark&no-frame=true&margin-w=4&column=7"/>
-</p>
 
 ## 🐍 Contribution Graph
 
