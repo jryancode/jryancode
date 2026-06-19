@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm James Ryan V. Dela Cruz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/jryancode/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7210C&center=true&vCenter=true&random=false&width=800&lines=AI+Engineer;LLM+%7C+RAG+%7C+Agentic+Systems;Building+production+LLM+apps;Evaluation+%7C+Guardrails+%7C+Low+latency;Shipping+GenAI+into+Production"></a>
+  <a href="https://github.com/jryancode/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7210C&center=true&vCenter=true&random=false&width=800&lines=AI+Engineer;Evaluation+%7C+Guardrails+%7C+Low+latency;Shipping+GenAI+into+Production"></a>
 </p>
 
 <p align="center">
