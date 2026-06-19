@@ -162,9 +162,3 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jryancode&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
 </p>
-
-## 🧮 Most Used Languages
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jryancode&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
