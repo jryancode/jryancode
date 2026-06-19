@@ -18,11 +18,11 @@
 
 ### AI Engineer
 
-AI Engineer with around **five years** building and shipping production software, the last few focused on **LLM applications**.
+- AI Engineer with around six years of experience building and shipping production software, the last few focused on LLM applications.
 
-I design **retrieval-augmented generation (RAG)** pipelines, build **AI agents** that handle multi-step tasks, and integrate generative AI into existing products without breaking what already works.
+- I design retrieval augmented generation pipelines, build AI agents and automated workflows that handle multi step tasks, and integrate generative AI into existing products without breaking what already works.
 
-Most of my recent work has been in **fintech and billing**, where accuracy and traceability matter — so I care a lot about **evaluation, guardrails, and keeping cost and latency under control**.
+- Most of my recent work has been in healthcare, fintech and billing, where accuracy and traceability matter, so I care a lot about evaluation, guardrails, and keeping cost and latency under control.
 
 ### 🎯 What I Do
 - 🤖 Build **agentic workflows** with tool calling and safe rollout patterns
@@ -66,43 +66,76 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Tech Stack</b>
 
-### 🧠 AI / LLM
+### 🧠 Core AI & LLM
 
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white)
+![LLM App Dev](https://img.shields.io/badge/LLM%20App%20Development-FF6F61?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-6C5CE7?style=for-the-badge)
 ![Tool Calling](https://img.shields.io/badge/Tool%20Calling-00B894?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0984E3?style=for-the-badge)
-![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-E17055?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-FDCB6E?style=for-the-badge&logoColor=black)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-A29BFE?style=for-the-badge)
+![Structured Output](https://img.shields.io/badge/Structured%20Output-00B894?style=for-the-badge)
+![Function Calling](https://img.shields.io/badge/Function%20Calling-00B894?style=for-the-badge)
 
 ---
 
-### 💻 Languages
+### 🤖 Models & Fine-Tuning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![LoRA](https://img.shields.io/badge/LoRA%20Fine--Tuning-E17055?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-FDCB6E?style=for-the-badge&logoColor=black)
+
+---
+
+### 🔍 Retrieval & Search
+
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-A29BFE?style=for-the-badge)
+![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-A29BFE?style=for-the-badge)
+![Chunking](https://img.shields.io/badge/Chunking%20%26%20Indexing-FDCB6E?style=for-the-badge&logoColor=black)
+![Reranking](https://img.shields.io/badge/Reranking-6C5CE7?style=for-the-badge)
+
+---
+
+### ✅ Evaluation & Guardrails
+
+![Ragas](https://img.shields.io/badge/Ragas-FF6F61?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LLM Eval](https://img.shields.io/badge/LLM%20Eval%20%26%20Regression-0984E3?style=for-the-badge)
+![Hallucination Checks](https://img.shields.io/badge/Hallucination%20Checks-E17055?style=for-the-badge)
+![Safety Checks](https://img.shields.io/badge/Safety%20Checks-00B894?style=for-the-badge)
+![Cost & Latency](https://img.shields.io/badge/Cost%20%26%20Latency%20Monitoring-632CA6?style=for-the-badge)
+
+---
+
+### ⚙️ Automation & Orchestration
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
+![Webhooks](https://img.shields.io/badge/Webhooks%20%26%20ETL-00B894?style=for-the-badge)
+![cron](https://img.shields.io/badge/cron-433e38?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+### 💻 Languages & Backend
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🛠️ Backend & APIs
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
 
 ---
 
@@ -116,32 +149,15 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 
 ---
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Deployment
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-### 🔬 Testing & Observability
-
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-## 💼 Experience Highlights
-
-- **Senior AI Engineer @ Collectly** — Lead AI engineering on a patient billing platform; agentic workflows cut manual review on routine tickets by **~45%**, and a cited RAG layer raised internal answer accuracy from the high 70s to **~92%**.
-- **AI Engineer @ Helicap** — Built LLM tools for a lending & credit team; a document assistant cut manual data entry per deal by **~60%**, backed by a pgvector + FastAPI research assistant.
-- **Software Engineer @ Alliance** — Backend services in Python & Node.js; shipped an early GenAI support-reply feature that cut first response time by **~40%**.
 
 ## 🏅 Certifications
 
