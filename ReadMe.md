@@ -60,6 +60,13 @@ Always open to <b>collaborating</b> on meaningful projects and building great pr
 
 </p>
 
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jryancode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
 </td>
 </tr>
 </table>
